@@ -94,12 +94,23 @@ Built responsive, reusable React interfaces for multiple client-facing applicati
 
 ---
 
-### GitHub Stats
+### GitHub
+
+[![Followers](https://img.shields.io/github/followers/Naush-zd?style=flat&logo=github&label=Followers&color=C96A54)](https://github.com/Naush-zd?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Naush-zd&color=C96A54&style=flat&label=Profile+Views)
+
+<!--
+Prefer the fancy stat cards? The public github-readme-stats instance is frequently
+rate-limited (returns 503, showing broken images). To use it reliably, deploy your
+own copy: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+Then uncomment and point these at your instance:
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naush-zd&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naush-zd&layout=compact&hide_border=true" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=Naush-zd&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Naush-zd&layout=compact&hide_border=true&theme=dark" />
 </p>
+-->
+
 
 ---
 
