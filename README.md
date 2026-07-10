@@ -70,7 +70,7 @@ Unifies GitHub, LeetCode, and resume data into a skills profile driving job matc
 tailoring, and roadmap generation — grounded via RAG with inline citations, never fabricated.
 
 <a href="https://github.com/Naush-zd/Career-Twin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naush-zd&repo=Career-Twin&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Career Twin" />
+  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Career-Twin&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Career Twin" />
 </a>
 
 | Layer | Technology |
@@ -90,7 +90,7 @@ Mocks GraphQL, REST, and AsyncAPI directly from their specs, with an AI contract
 a "chaos engineering for API contracts" system (12 injectable failure scenarios).
 
 <a href="https://github.com/Naush-zd/Mockserver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naush-zd&repo=Mockserver&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Unified Mockserver" />
+  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Mockserver&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Unified Mockserver" />
 </a>
 
 | Layer | Technology |
@@ -112,7 +112,7 @@ Detecting drones from noise-suppressed acoustic features in low signal-to-noise-
 Published at SoCTA 2025 (Springer Nature).
 
 <a href="https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naush-zd&repo=Drone-Detection-Using-Acoustic-Features&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Drone Detection" />
+  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Drone-Detection-Using-Acoustic-Features&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Drone Detection" />
 </a>
 
 | Layer | Technology |
@@ -164,8 +164,8 @@ Published at SoCTA 2025 (Springer Nature).
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Naush-zd&show_icons=true&theme=nord&count_private=true&title_color=E87A5B&icon_color=E87A5B&text_color=c9d1d9&border_color=E87A5B" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naush-zd&layout=compact&theme=nord&title_color=E87A5B&text_color=c9d1d9&border_color=E87A5B" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-six-tan-45.vercel.app/api?username=Naush-zd&show_icons=true&theme=nord&count_private=true&title_color=E87A5B&icon_color=E87A5B&text_color=c9d1d9&border_color=E87A5B" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-six-tan-45.vercel.app/api/top-langs/?username=Naush-zd&layout=compact&theme=nord&title_color=E87A5B&text_color=c9d1d9&border_color=E87A5B" alt="Top Languages" />
 
 <br/>
 
@@ -177,7 +177,7 @@ Published at SoCTA 2025 (Springer Nature).
 
 <!-- ============================ TROPHIES ============================ -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naush-zd&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-peach-iota.vercel.app/?username=Naush-zd&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 
 <br/>
 
