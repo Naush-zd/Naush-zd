@@ -1,8 +1,7 @@
 <!-- ============================ HEADER BANNER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:56D4DD&height=230&section=header&text=Nausheen%20Noor%20Zaidi&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descSize=16&descAlignY=56&reserved=0&v=2" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:56D4DD&height=230&section=header&text=Nausheen%20Noor%20Zaidi&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descSize=16&descAlignY=56&reserved=0&v=3" width="100%" />
 <!-- ============================ TYPING SVG ============================ -->
 
 <a href="https://github.com/Naush-zd">
