@@ -1,121 +1,210 @@
-# Nausheen Noor Zaidi
+<!-- ============================ HEADER BANNER ============================ -->
+<div align="center">
 
-**Software Engineer · Backend & Distributed Systems · AI Infrastructure**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E87A5B,100:C85F42&height=200&section=header&text=Nausheen%20Noor%20Zaidi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descSize=16&descAlignY=60" width="100%" />
 
-Based in Bengaluru, India
+<!-- ============================ TYPING SVG ============================ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nausheen-noor-zaidi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nausheennoorz16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Naush-zd)
+<a href="https://github.com/Naush-zd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E87A5B&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Warner+Bros.+Discovery;Backend+%26+Distributed+Systems;AI+Infrastructure+Builder;From+PoC+to+Production%2C+independently;Building+Rudra+AI%2C+Career+Twin+%26+Unified+Mockserver" alt="Typing SVG" />
+</a>
 
----
+<!-- ============================ OPEN TO WORK ============================ -->
 
-### About
+<img src="https://img.shields.io/badge/Open%20to%20Work-Software%20%26%20AI%20Engineer%20roles-E87A5B?style=for-the-badge&labelColor=1a1a2e" alt="Open to Work" />
 
-Software Engineer with production backend experience at **Warner Bros. Discovery**, specializing in
-backend systems, developer platforms, and AI infrastructure. I take ideas from proof-of-concept to
-production, and in my own time I independently build large-scale systems: a distributed multi-agent
-engineering platform, an AI-augmented API virtualization platform, and a full-stack AI career copilot.
+<!-- ============================ COUNTERS ============================ -->
 
-- Backend services, microservices, and event-driven architecture
-- LLM orchestration, RAG pipelines, and agentic systems
-- Taking rough proofs-of-concept all the way to production real users depend on
+<img src="https://komarev.com/ghpvc/?username=Naush-zd&label=Profile%20Views&color=E87A5B&style=flat" alt="Profile Views" />
+<a href="https://github.com/Naush-zd?tab=followers">
+  <img src="https://img.shields.io/github/followers/Naush-zd?label=Followers&style=flat&logo=github&color=E87A5B" alt="Followers" />
+</a>
 
----
-
-### Featured Projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **Rudra AI** *(private)* | Self-hostable autonomous multi-agent software engineering platform where eight specialized AI roles collaborate through an event-driven orchestration engine with human-in-the-loop approval. | Node.js, TypeScript, Python, FastAPI, PostgreSQL, Neo4j, Redis, Bedrock/OpenAI/Anthropic |
-| **[Career Twin](https://github.com/Naush-zd/Career-Twin)** | Full-stack AI career copilot that unifies GitHub, LeetCode, and resume data into a skills profile driving job matching, resume tailoring, and roadmap generation — grounded via RAG, never fabricated. | FastAPI, React, TypeScript, AWS Bedrock, LangGraph, sqlite-vec |
-| **[Unified Mockserver](https://github.com/Naush-zd/Mockserver)** | AI-augmented API virtualization platform mocking GraphQL, REST, and AsyncAPI from specs, with an AI contract-test generator and a "chaos engineering for API contracts" system. | Next.js, Express, Microcks, Groq LLM, Okta SAML, Docker |
-| **[Drone Detection (Acoustic)](https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features)** | Research on detecting drones from noise-suppressed acoustic features in low-SNR environments. Published at SoCTA 2025 (Springer Nature). | MATLAB, Signal Processing |
+</div>
 
 ---
 
-### Tech Stack
+<!-- ============================ WHO I AM ============================ -->
+## Who I Am
+
+```typescript
+const nausheen = {
+  title: "Software Engineer · Backend & Distributed Systems · AI Infrastructure",
+  stack: {
+    languages: ["Python", "TypeScript", "JavaScript", "C++", "SQL"],
+    backend: ["Node.js", "FastAPI", "Express", "GraphQL", "Microservices", "Event-Driven Architecture"],
+    ai: ["RAG Pipelines", "LangGraph", "AWS Bedrock", "Knowledge Graphs (Neo4j)", "LLM-as-Judge Eval"],
+    data: ["PostgreSQL", "Redis", "pgvector", "Docker"],
+  },
+  launchedProjects: ["Rudra AI", "Career Twin", "Unified Mockserver", "Drone Detection (Acoustic)"],
+  certifications: ["GATE (CS) 2024 — All India Rank 8399", "SoCTA 2025 Publication · Springer Nature"],
+  status: "SWE Intern @ Warner Bros. Discovery · M.Tech @ NIT Jalandhar (CGPA 8.45)",
+  openTo: ["Full-time Software Engineer roles", "AI Engineer roles"],
+};
+```
+
+---
+
+<!-- ============================ FEATURED PROJECTS ============================ -->
+## Featured Projects
+
+### Rudra AI — Autonomous Multi-Agent Software Engineering Platform
+
+A self-hostable platform where eight specialized AI engineering roles collaborate through an
+event-driven orchestration engine with human-in-the-loop approval.
+
+| Layer | Technology |
+| --- | --- |
+| Orchestration | Event-driven engine, Redis |
+| Backend | Node.js, TypeScript, Python, FastAPI |
+| Data | PostgreSQL, Neo4j, pgvector |
+| AI | Bedrock / OpenAI / Anthropic, permissioned MCP runtime |
+
+![Private repository](https://img.shields.io/badge/Repository-Private-6b6c73?style=flat&logo=github&logoColor=white)
+
+<br/>
+
+### Career Twin — AI Career Copilot
+
+Unifies GitHub, LeetCode, and resume data into a skills profile driving job matching, resume
+tailoring, and roadmap generation — grounded via RAG with inline citations, never fabricated.
+
+<a href="https://github.com/Naush-zd/Career-Twin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naush-zd&repo=Career-Twin&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Career Twin" />
+</a>
+
+| Layer | Technology |
+| --- | --- |
+| Backend | FastAPI, Python |
+| Frontend | React, TypeScript |
+| AI | AWS Bedrock (Titan embeddings), LangGraph ReAct agent |
+| Vector Store | sqlite-vec |
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Naush-zd/Career-Twin)
+
+<br/>
+
+### Unified Mockserver — AI-Augmented API Virtualization Platform
+
+Mocks GraphQL, REST, and AsyncAPI directly from their specs, with an AI contract-test generator and
+a "chaos engineering for API contracts" system (12 injectable failure scenarios).
+
+<a href="https://github.com/Naush-zd/Mockserver">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naush-zd&repo=Mockserver&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Unified Mockserver" />
+</a>
+
+| Layer | Technology |
+| --- | --- |
+| Frontend | Next.js |
+| Backend | Express, Node.js |
+| Mocking | Microcks |
+| AI | Groq LLM |
+| Auth | Okta SAML SSO, rate-limited API keys |
+| Infra | Docker |
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Naush-zd/Mockserver)
+
+<br/>
+
+### Drone Detection using Acoustic Features — Published Research
+
+Detecting drones from noise-suppressed acoustic features in low signal-to-noise-ratio environments.
+Published at SoCTA 2025 (Springer Nature).
+
+<a href="https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naush-zd&repo=Drone-Detection-Using-Acoustic-Features&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Drone Detection" />
+</a>
+
+| Layer | Technology |
+| --- | --- |
+| Signal Processing | MATLAB |
+| Features | Acoustic feature extraction |
+| Domain | Noise suppression, low-SNR detection |
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features)
+[![Publication](https://img.shields.io/badge/Publication-SoCTA%202025%20·%20Springer-E87A5B?style=flat)](https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features)
+
+---
+
+<!-- ============================ TECH STACK ============================ -->
+## Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-**AI / ML**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-C96A54?style=flat)
-
-**Data, Infra & Auth**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=dark" alt="Languages" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,graphql,docker&theme=dark" alt="Backend and Infra" />
+
+**Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Cloud" />
+
+**AI & Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="Databases" />
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Dev Tools" />
+
+</div>
 
 ---
 
-### Experience
+<!-- ============================ GITHUB STATS ============================ -->
+## GitHub Stats
 
-**Software Engineering Intern — Warner Bros. Discovery** *(Sep 2025 – Present, Bengaluru)*
-Designed and shipped GraphQL/REST backend services across production microservices; drove
-consumer-driven contract testing from POC to production across 15+ endpoints (authored the ADR and
-led leadership alignment); delivered a legacy JSON-Blob-to-GraphQL migration end to end.
+<div align="center">
 
-**Frontend Developer Intern — The Digital Geek** *(Sep 2023 – Dec 2023, Remote)*
-Built responsive, reusable React interfaces for multiple client-facing applications.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Naush-zd&show_icons=true&theme=nord&count_private=true&title_color=E87A5B&icon_color=E87A5B&text_color=c9d1d9&border_color=E87A5B" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naush-zd&layout=compact&theme=nord&title_color=E87A5B&text_color=c9d1d9&border_color=E87A5B" alt="Top Languages" />
 
----
+<br/>
 
-### Education & Achievements
+<!-- ============================ STREAK ============================ -->
 
-- **M.Tech, Machine Intelligence & Automation** — NIT Jalandhar (CGPA 8.45), 2024–2026 (Expected)
-- **B.Tech, Computer Science & Engineering** — SRMCEM, Lucknow (CGPA 8.21), 2020–2024
-- **GATE (CS) 2024** — All India Rank 8399
-- **Publication** — *Drone Detection using Noise Suppressed Acoustic Features in Low SNR Environments*, SoCTA 2025 (Springer Nature)
+<img src="https://streak-stats.demolab.com?user=Naush-zd&theme=nord&border=E87A5B&ring=E87A5B&fire=E87A5B&currStreakLabel=E87A5B" alt="GitHub Streak" />
 
----
+<br/>
 
-### GitHub
+<!-- ============================ TROPHIES ============================ -->
 
-[![Followers](https://img.shields.io/github/followers/Naush-zd?style=flat&logo=github&label=Followers&color=C96A54)](https://github.com/Naush-zd?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=Naush-zd&color=C96A54&style=flat&label=Profile+Views)
+<img src="https://github-profile-trophy.vercel.app/?username=Naush-zd&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 
-<!--
-Prefer the fancy stat cards? The public github-readme-stats instance is frequently
-rate-limited (returns 503, showing broken images). To use it reliably, deploy your
-own copy: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-Then uncomment and point these at your instance:
+<br/>
 
-<p align="center">
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=Naush-zd&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Naush-zd&layout=compact&hide_border=true&theme=dark" />
-</p>
--->
+<!-- ============================ ACTIVITY GRAPH ============================ -->
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naush-zd&bg_color=0d1117&color=E87A5B&line=E87A5B&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+
+</div>
 
 ---
 
-### Connect
+<!-- ============================ CONNECT ============================ -->
+## Connect
 
-- LinkedIn: [nausheen-noor-zaidi](https://www.linkedin.com/in/nausheen-noor-zaidi/)
-- Email: nausheennoorz16@gmail.com
-- Open to full-time **Software Engineer** and **AI Engineer** roles.
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nausheen-noor-zaidi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nausheennoorz16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Naush-zd">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<!-- ============================ FOOTER BANNER ============================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C85F42,100:E87A5B&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%" />
