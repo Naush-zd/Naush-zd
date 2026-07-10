@@ -1,7 +1,7 @@
 <!-- ============================ HEADER BANNER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:56D4DD&height=230&section=header&text=Nausheen%20Noor%20Zaidi&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descSize=16&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:56D4DD&height=230&section=header&text=Nausheen%20Noor%20Zaidi&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descSize=16&descAlignY=56&reserved=0&v=2" width="100%" />
 
 <!-- ============================ TYPING SVG ============================ -->
 
@@ -19,6 +19,10 @@
 <a href="https://github.com/Naush-zd?tab=followers">
   <img src="https://img.shields.io/github/followers/Naush-zd?label=Followers&style=flat&logo=github&color=1F6FEB&labelColor=0D1117" alt="Followers" />
 </a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
 
@@ -185,6 +189,12 @@ Published at SoCTA 2025 (Springer Nature).
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naush-zd&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&title_color=58A6FF" alt="Activity Graph" width="100%" />
 
+<br/>
+
+<!-- ============================ SNAKE ANIMATION ============================ -->
+
+<img src="https://raw.githubusercontent.com/Naush-zd/Naush-zd/output/github-snake-dark.svg" alt="Snake eating contributions" width="100%" />
+
 </div>
 
 ---
@@ -207,4 +217,4 @@ Published at SoCTA 2025 (Springer Nature).
 </div>
 
 <!-- ============================ FOOTER BANNER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56D4DD,55:1F6FEB,100:0D1117&height=140&section=footer&text=Let%27s%20build%20something%20great&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56D4DD,55:1F6FEB,100:0D1117&height=140&section=footer&text=Let%27s%20build%20something%20great&fontSize=22&fontColor=ffffff&animation=twinkling&reserved=0&v=2" width="100%" />
