@@ -1,23 +1,23 @@
 <!-- ============================ HEADER BANNER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E87A5B,100:C85F42&height=200&section=header&text=Nausheen%20Noor%20Zaidi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descSize=16&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:56D4DD&height=230&section=header&text=Nausheen%20Noor%20Zaidi&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20AI%20Infrastructure&descSize=16&descAlignY=56" width="100%" />
 
 <!-- ============================ TYPING SVG ============================ -->
 
 <a href="https://github.com/Naush-zd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E87A5B&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Warner+Bros.+Discovery;Backend+%26+Distributed+Systems;AI+Infrastructure+Builder;From+PoC+to+Production%2C+independently;Building+Rudra+AI%2C+Career+Twin+%26+Unified+Mockserver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Warner+Bros.+Discovery;Backend+%26+Distributed+Systems;AI+Infrastructure+Builder;From+PoC+to+Production%2C+independently;Building+Rudra+AI%2C+Career+Twin+%26+Unified+Mockserver" alt="Typing SVG" />
 </a>
 
 <!-- ============================ OPEN TO WORK ============================ -->
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-Software%20%26%20AI%20Engineer%20roles-E87A5B?style=for-the-badge&labelColor=1a1a2e" alt="Open to Work" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Software%20%26%20AI%20Engineer%20roles-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
 
 <!-- ============================ COUNTERS ============================ -->
 
-<img src="https://komarev.com/ghpvc/?username=Naush-zd&label=Profile%20Views&color=E87A5B&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Naush-zd&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
 <a href="https://github.com/Naush-zd?tab=followers">
-  <img src="https://img.shields.io/github/followers/Naush-zd?label=Followers&style=flat&logo=github&color=E87A5B" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Naush-zd?label=Followers&style=flat&logo=github&color=1F6FEB&labelColor=0D1117" alt="Followers" />
 </a>
 
 </div>
@@ -60,7 +60,7 @@ event-driven orchestration engine with human-in-the-loop approval.
 | Data | PostgreSQL, Neo4j, pgvector |
 | AI | Bedrock / OpenAI / Anthropic, permissioned MCP runtime |
 
-![Private repository](https://img.shields.io/badge/Repository-Private-6b6c73?style=flat&logo=github&logoColor=white)
+![Private repository](https://img.shields.io/badge/Repository-Private-1F2937?style=flat&logo=github&logoColor=white)
 
 <br/>
 
@@ -70,7 +70,7 @@ Unifies GitHub, LeetCode, and resume data into a skills profile driving job matc
 tailoring, and roadmap generation — grounded via RAG with inline citations, never fabricated.
 
 <a href="https://github.com/Naush-zd/Career-Twin">
-  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Career-Twin&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Career Twin" />
+  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Career-Twin&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB" alt="Career Twin" />
 </a>
 
 | Layer | Technology |
@@ -90,7 +90,7 @@ Mocks GraphQL, REST, and AsyncAPI directly from their specs, with an AI contract
 a "chaos engineering for API contracts" system (12 injectable failure scenarios).
 
 <a href="https://github.com/Naush-zd/Mockserver">
-  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Mockserver&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Unified Mockserver" />
+  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Mockserver&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB" alt="Unified Mockserver" />
 </a>
 
 | Layer | Technology |
@@ -112,7 +112,7 @@ Detecting drones from noise-suppressed acoustic features in low signal-to-noise-
 Published at SoCTA 2025 (Springer Nature).
 
 <a href="https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features">
-  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Drone-Detection-Using-Acoustic-Features&theme=nord&title_color=E87A5B&icon_color=E87A5B&border_color=E87A5B" alt="Drone Detection" />
+  <img src="https://github-readme-stats-six-tan-45.vercel.app/api/pin/?username=Naush-zd&repo=Drone-Detection-Using-Acoustic-Features&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB" alt="Drone Detection" />
 </a>
 
 | Layer | Technology |
@@ -122,7 +122,7 @@ Published at SoCTA 2025 (Springer Nature).
 | Domain | Noise suppression, low-SNR detection |
 
 [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features)
-[![Publication](https://img.shields.io/badge/Publication-SoCTA%202025%20·%20Springer-E87A5B?style=flat)](https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features)
+[![Publication](https://img.shields.io/badge/Publication-SoCTA%202025%20·%20Springer-1F6FEB?style=flat)](https://github.com/Naush-zd/Drone-Detection-Using-Acoustic-Features)
 
 ---
 
@@ -164,26 +164,26 @@ Published at SoCTA 2025 (Springer Nature).
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-six-tan-45.vercel.app/api?username=Naush-zd&show_icons=true&theme=nord&count_private=true&title_color=E87A5B&icon_color=E87A5B&text_color=c9d1d9&border_color=E87A5B" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-six-tan-45.vercel.app/api/top-langs/?username=Naush-zd&layout=compact&theme=nord&title_color=E87A5B&text_color=c9d1d9&border_color=E87A5B" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-six-tan-45.vercel.app/api?username=Naush-zd&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-six-tan-45.vercel.app/api/top-langs/?username=Naush-zd&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
 <br/>
 
 <!-- ============================ STREAK ============================ -->
 
-<img src="https://streak-stats.demolab.com?user=Naush-zd&theme=nord&border=E87A5B&ring=E87A5B&fire=E87A5B&currStreakLabel=E87A5B" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Naush-zd&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 <br/>
 
 <!-- ============================ TROPHIES ============================ -->
 
-<img src="https://github-profile-trophy-peach-iota.vercel.app/?username=Naush-zd&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-peach-iota.vercel.app/?username=Naush-zd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 
 <br/>
 
 <!-- ============================ ACTIVITY GRAPH ============================ -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naush-zd&bg_color=0d1117&color=E87A5B&line=E87A5B&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naush-zd&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&title_color=58A6FF" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -198,7 +198,7 @@ Published at SoCTA 2025 (Springer Nature).
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:nausheennoorz16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Naush-zd">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -207,4 +207,4 @@ Published at SoCTA 2025 (Springer Nature).
 </div>
 
 <!-- ============================ FOOTER BANNER ============================ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C85F42,100:E87A5B&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56D4DD,55:1F6FEB,100:0D1117&height=140&section=footer&text=Let%27s%20build%20something%20great&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
